@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="helper_edit_text">Required</string>
+    <string name="get_weather">Get weather</string>
+    <string name="temperature_title">Temperature: </string>
+    <string name="pressure_title">Pressure: </string>
+    <string name="humidity_title">Humidity: </string>
+    <string name="max_temperature_title">Max. Temp.: </string>
+    <string name="min_temp_title">Min. Temp: </string>
+    <string name="degree_symbol">° C</string>
+    <string name="humidity_symbol"> %</string>
+    <string name="question_mark"> \?</string>
+    <string name="pressure_symbol"> mb</string>
+</resources>
